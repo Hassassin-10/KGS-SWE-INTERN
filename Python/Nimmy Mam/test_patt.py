@@ -1,0 +1,6 @@
+print("Hello")
+print()
+print("World")
+print("Java")
+print()
+print("JavaScript")
