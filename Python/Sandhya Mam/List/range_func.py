@@ -1,0 +1,10 @@
+# var_name = list(range(stop))
+# var_name = list(range(start,stop))
+# var_name = list(range(start,stop,end))
+
+a = list(range(5))
+print(a)
+b = list(range(10,21))
+print(b)
+c = list(range(1,20,2))
+print(c)
