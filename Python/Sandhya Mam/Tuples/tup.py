@@ -1,0 +1,11 @@
+t = (1,"ram",True,10,90.9)
+print(t)
+print(len(t))
+print(t[2])
+print(type(t))
+t1 = (10) # this will be taken as int should put , at end
+print(t1)
+print(type(t1))
+t2 = (10,)
+print(t2)
+print(type(t2))
